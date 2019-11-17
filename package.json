@@ -1,0 +1,27 @@
+{
+  "name": "nodemqqt",
+  "version": "1.0.0",
+  "description": "test mqqtserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vollfed/nodeMQQT.git"
+  },
+  "keywords": [
+    "MQQT",
+    "node"
+  ],
+  "author": "vollfed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vollfed/nodeMQQT/issues"
+  },
+  "homepage": "https://github.com/vollfed/nodeMQQT#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mosca": "^2.8.3"
+  }
+}
