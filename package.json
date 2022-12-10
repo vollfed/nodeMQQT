@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/vollfed/nodeMQQT#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mosca": "^2.8.3"
   }
 }
